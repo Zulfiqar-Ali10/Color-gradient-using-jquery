@@ -1,0 +1,23 @@
+body{
+margin-top: 20%;
+text-align: center;
+background: linear-gradient(90deg, rgb(42, 6, 150) 53%, rgb(112, 10, 126) 100%);
+
+}
+
+#submit-color{
+    background-color: black;
+    color: white;
+    padding: 10px 40px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.flex h3{
+    margin-left: 10px;
+    font-size: 22px;
+}
